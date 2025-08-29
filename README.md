@@ -7,19 +7,18 @@ A pixel-style RPG built in Python using Pygame.
 
 ## Purpose
 
-This game was developed as part of my English Reading assignment.  
-It’s a lightweight simulator that blends exploration, combat, and scavenging in a retro-inspired environment.  
+This game was made for my English Assignment
 Some gameplay elements require interaction through the terminal (bash), adding a hybrid experience between GUI and CLI.
 
 ---
 
 ## How to Play
 
-- You are a lone traveler in the world of **Railsea**, a mysterious land filled with hostile mobs and hidden salvage.
+- You are a traveler in the world of **Railsea**.
 - Your goal: **defeat as many monsters as possible without dying**.
-- Salvage items scattered across the map will **boost your stats** and help you survive longer.
-- Battles take place in the terminal—choose your attacks wisely based on damage and accuracy.
-- Movement and exploration happen in the Pygame window.
+- Salvage items will **boost your stats** and help you survive longer.
+- Battles take place in the terminal.
+- Exploration happen in the Pygame window.
 
 ---
 
@@ -43,4 +42,4 @@ Some gameplay elements require interaction through the terminal (bash), adding a
 ## Launch Instructions
 
 ```bash
-python ergame.py
+python filename.py
